@@ -1,0 +1,19 @@
+Hot Jupiter
+Hot Neptune
+Super Earth
+Spectroscopy (low-res)
+Spectroscopy (hi-res)
+Atmospheric chemistry
+Spectral retrieval
+Instrumentation
+New observing technique
+New analysis technique
+TTV
+Planet discovery
+Transit
+Secondary eclipse
+Day-side / phasecurve
+Exomoons
+Exocomets
+Host star
+Star-planet interaction
