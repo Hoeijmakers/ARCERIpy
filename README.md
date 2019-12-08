@@ -4,10 +4,10 @@ An Ipython notebook aide for Active Reading using CERI
 
 This repo contains a Jupyter notebook that presents a form to help you read your scientific papers actively.
 The form follows the CERI framework, where CERI stands for:
-Claim
-Evidence
-Reasoning
-Implications.
+* Claim
+* Evidence
+* Reasoning
+* Implications.
 
 By answering the questions in the form, you force yourself to answer the most important questions that you need to understand what's in the paper. This information is saved to a database for easy recollection at a later time (i.e. when writing your own paper).
 
