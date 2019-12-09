@@ -2,14 +2,14 @@
 An Ipython notebook aide for Active Reading using CERI
 
 
-This repo contains a Jupyter notebook that presents a form to help you read your scientific papers actively.
-The form follows the CERI framework, where CERI stands for:
+This repo contains a Jupyter notebook that presents a form to help you read your scientific papers actively, and to understand the paper's methodology, results and relevance at a higher efficiency. The form follows the CERI framework, where CERI stands for:
+
 * Claim
 * Evidence
 * Reasoning
 * Implications.
 
-By answering the questions in the form, you force yourself to answer the most important questions that you need to understand what's in the paper. This information is saved to a database for easy recollection at a later time (i.e. when writing your own paper).
+By answering the questions in the form, you force yourself to answer the most important questions needed to understand what's in the paper. This information is saved to a database for easy recollection at a later time, which is especially useful when writing your own paper.
 
 The form is currently designed for papers in the field of exoplanets or astronomy in general, but can in principle be adapted for any field.
 
