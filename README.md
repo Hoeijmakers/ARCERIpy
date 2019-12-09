@@ -16,9 +16,8 @@ The form is currently designed for papers in the field of exoplanets or astronom
 ### To get started:
 1. Clone this repo.
 1. Run the ARCERI notebook in the terminal as `jupyter notebook ARCERI.ipynb`
-1. The notebook contains three cells:
-    1. The first cell tells the notebook to auto-execute all cells upon launching the notebook. Because this constitutes a security risk, Jupyter requires that you set the notebook to *Trusted* before this cell can do its job.
+1. The notebook contains two cells:
+    1. The first cell tells the notebook to auto-execute all cells upon launching the notebook. Because this constitutes a security risk, Jupyter requires that you set the notebook to *Trusted* before this cell can do its job. It also contains an HTML script that hides the source code, such that the form looks and feels like any ordinary webform.
     1. The main code that spawns the form, the buttons and handles the saving of output.
-    1. This cell hides the source code, such that the form looks and feels like any ordinary webform.
-1. After confirming that these cells indeed pose no security risk, set the notebook to `Trusted`, hide the code and save the notebook, and restart Jupyter and the kernel.
+1. After confirming that these cells indeed pose no security risk, set the notebook to `Trusted`, hide the code, save the notebook, and restart Jupyter and the kernel.
 1. Upon re-opening the notebook, the form should spawn automatically and the cells containing the source code should be hidden. You are now ready to start reading papers with CERI!
